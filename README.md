@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 <a href="https://www.loom.com/share/be1af835f6474c42a357304f5eaa59e0">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/be1af835f6474c42a357304f5eaa59e0-with-play.gif">
-    </a>
+</a>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -47,7 +47,7 @@ GIF created with Loom
 
 ## Notes
 
-The biggest challenge was being able to make all three filters work at the same time. I figured out that I could use ".filter()" three times for each filter to get only the results that satisfied the conditions set by all three filters.
+The biggest challenge was being able to make all three filters work at the same time. I figured out that I could just use ".filter()" multiple times in a row to get the results that satisfied the conditions set by all three filters. Another challenge was being able to use "useEffect()" properly since I didn't really understand when and why to use it before the project. However, after doing the project, how and why to use "useEffect()" is a lot clearer to me.
 
 ## License
 
