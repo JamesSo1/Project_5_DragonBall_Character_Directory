@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
     <a href="https://www.loom.com/share/be1af835f6474c42a357304f5eaa59e0">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/be1af835f6474c42a357304f5eaa59e0-with-play.gif">
     </a>
